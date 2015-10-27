@@ -5,6 +5,13 @@
 Copy 
 cmd-c
 
+##Change Directory
+
+cd [name of directory]
+
+## List contents of directory
+ls
+
 #Git
 
 ctrl -`
